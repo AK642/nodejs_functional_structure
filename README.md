@@ -1,0 +1,1 @@
+# nodejs_functional_structure
